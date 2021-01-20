@@ -1,5 +1,5 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "ayaya"
+date: 2020-10-10
 ---
 AAAAAAAAAAA
